@@ -9,7 +9,8 @@ function getCat() {
     quoteText.innerText = cat[rand].text;
       if (cat[rand].author === null) {
         quoteAuthor.innerText = "Anonymous";
-      } else {
+      } 
+      else {
         quoteAuthor.innerText = cat[rand].author;
       };
   }
@@ -31,4 +32,4 @@ function getCat() {
         quoteAuthor.innerText = data[rand].author;
       }
     });
-  }
+  }m

@@ -190,8 +190,13 @@ const quotesArr = [
         "category": "historic"
     },
     {
-        "text": "",
-        "author": "",
+        "text": "Education is the most powerful weapon which you can use to change the world.",
+        "author": "Nelson Mandela",
+        "category": "historic"
+    },
+    {
+        "text": "I am an American; free born and free bred, where I acknowledge no man as my superior, except for his own worth, or as my inferior, except for his own demerit.",
+        "author": "Theodore Roosevelt",
         "category": "historic"
     },
 ]
