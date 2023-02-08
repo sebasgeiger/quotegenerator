@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
+    <title>Quote Generator</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
@@ -18,14 +18,14 @@
             <blockquote id="blockquote">Choose a category or get a random quote</blockquote>
             <figcaption id="author"></figcaption>
             <div class="inputs">
-                <select name="category" id="select">
+                <select class="select" name="category" id="select">
                     <option value="yogisms">Yogisms</option>
                     <option value="motivational">Motivational</option>
                     <option value="movies">Movies</option>
                     <option value="historic">Historic</option>
                 </select>
-                <button role="button" onclick="getCat()">Get</button>
-                <button role="button" onclick="showOne()">Random</button>
+                <button role="button" class="btn btn-rect-to-round btn-rect-to-round--black" onclick="getCat()">Get</button>
+                <button role="button" class="btn btn-rect-to-round btn-rect-to-round--black" onclick="showOne()">Random</button>
             </div>
         </figure>
     </main>

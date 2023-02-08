@@ -32,4 +32,4 @@ function getCat() {
         quoteAuthor.innerText = data[rand].author;
       }
     });
-  }m
+  }
