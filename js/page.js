@@ -33,3 +33,13 @@ function getCat() {
       }
     });
   }
+
+  function switchImage() {
+    document.getElementById("author").innerHTML = i;
+    var i = true;
+    if(i = "Yogi Berra") {
+      document.getElementById("person").src ="../img/yogi1.jpg";
+
+    } else {
+      document.getElementById("person").src = "";}
+  }
