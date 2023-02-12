@@ -15,6 +15,17 @@ function getCat() {
       };
   }
 
+  function changeImage() {
+    let quoteAuthor = document.getElementById('author');
+    var image = document.getElementById("person");
+    if (quoteAuthor = "Yogi Berra") {
+      image.src = "img/yogi1.jpg";
+    }
+    else {
+      image.src = "img/original.jpg";
+    };
+  }
+
   function showOne() {
     let selector = document.getElementById('select');
     selector.disabled = true;
@@ -34,12 +45,3 @@ function getCat() {
     });
   }
 
-  function switchImage() {
-    document.getElementById("author").innerHTML = i;
-    var i = true;
-    if(i = "Yogi Berra") {
-      document.getElementById("person").src ="../img/yogi1.jpg";
-
-    } else {
-      document.getElementById("person").src = "";}
-  }
