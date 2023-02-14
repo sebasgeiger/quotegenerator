@@ -1,3 +1,7 @@
+document.getElementById("get").addEventListener("click",getCat);
+document.getElementById("get").addEventListener("click",changeImage);
+document.getElementById("random").addEventListener("click",showOne);
+
 function getCat() {
     let selector = document.getElementById('select');
     selector.disabled = false;
