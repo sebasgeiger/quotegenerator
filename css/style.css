@@ -48,6 +48,7 @@ figure {
     flex-direction: row;
     align-items: center;
     width: 50%;
+    height: 375px;
     padding: 1.4em 2em 0 2em;
   }
   .inputs {
