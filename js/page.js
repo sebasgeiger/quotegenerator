@@ -49,7 +49,7 @@ function getCat() {
     let rand = Math.floor(Math.random() * 999);
     let quoteText = document.getElementById('blockquote');
     let quoteAuthor = document.getElementById('author');
-    
+    document.getElementById('person').src = "img/original.jpg";
     // fetch.then promise syntax
     fetch('https://type.fit/api/quotes')
     .then(res => res.json())
