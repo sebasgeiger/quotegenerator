@@ -8,9 +8,7 @@ function getCat() {
     let selected = document.getElementById('select').value;
     let quoteText = document.getElementById('blockquote');
     let quoteAuthor = document.getElementById('author');
-
     let quoteImage = document.getElementById('person');
-
     let cat = quotesArr.filter(quote => quote.category === selected);
     let rand = Math.floor(Math.random() * cat.length);
     quoteText.innerText = cat[rand].text;
@@ -51,6 +49,7 @@ function getCat() {
     let rand = Math.floor(Math.random() * 999);
     let quoteText = document.getElementById('blockquote');
     let quoteAuthor = document.getElementById('author');
+    
     // fetch.then promise syntax
     fetch('https://type.fit/api/quotes')
     .then(res => res.json())

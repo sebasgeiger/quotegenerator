@@ -123,120 +123,120 @@ const quotesArr = [
         "text": "I'm gonna make him an offer he can't refuse",
         "author": "The Godfather (1972)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/godfather.webp"
     },
     {
         "text": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
         "author": "The Silence of the Lambs (1991)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/lambs.webp"
     },
     {
         "text": "You can't handle the truth!",
         "author": "A Few Good Men (1992)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/goodmen.avif"
     },
     {
         "text": "Today, I consider myself the luckiest man on the face of the earth.",
         "author": "The Pride of the Yankees (1943)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/yankees.jpg"
     },
     {
         "text": "Out of order, I show you out of order.",
         "author": "Scent of a Woman (1992)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/woman.webp"
     },
     {
         "text": "Remember, kid; there’s heroes and there’s legends. Heroes get remembered, but legends never die. Follow your heart, kid, and you’ll never go wrong.",
         "author": "The Sandlot (1993)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/sandlot.jpg"
     },
     {
         "text": "The greatest trick the Devil ever pulled was convincing the world he did not exist",
         "author": "The Usual Suspects (1995)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/suspects.webp"
     },
     {
         "text": "I'm a Peacock, You gotta let me fly!",
         "author": "The Other Guys (2010)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/guys.jpg"
     },
     {
         "text": "Don't sell yourself short Judge, you're a tremendous slouch.",
         "author": "Caddyshack (1980)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/caddyshack.jpg"
     },
     {
         "text": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
         "author": "Dead Poets Society (1989)",
         "category": "movies",
-        "image": "img/yogi1.jpg"
+        "image": "img/poets.avif"
     },
     {
         "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
         "author": "Winston Churchill",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/churchill.jpg"
     },
     {
         "text": "I have a dream.",
         "author": "Martin Luther King Jr.",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/mlk.webp"
     },
     {
         "text": "All great change in America begins at the dinner table.",
         "author": "Ronald Reagan",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/reagan.jpg"
     },
     {
         "text": "It's better to fight for something in life than to die for nothing.",
         "author": "Gen. George S. Patton",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/patton.jpg"
     },
     {
         "text": "Better slip with foot than tongue.",
         "author": "Benjamin Franklin",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/franklin.jpg"
     },
     {
         "text": "Be the change that you wish to see in the world.",
         "author": "Mahatma Gandhi",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/gandhi.jpg"
     },
     {
         "text": "If the freedom of speech iss taken away then dumb and silent we may be led, like sheep to the slaughter.",
         "author": "George Washington",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/washington.jpg"
     },
     {
         "text": "It does not matter how slowly you go as long as you do not stop.",
         "author": "Confucius",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/confucius.webp"
     },
     {
         "text": "Education is the most powerful weapon which you can use to change the world.",
         "author": "Nelson Mandela",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/mandela.webp"
     },
     {
         "text": "I am an American; free born and free bred, where I acknowledge no man as my superior, except for his own worth, or as my inferior, except for his own demerit.",
         "author": "Theodore Roosevelt",
         "category": "historic",
-        "image": "img/yogi1.jpg"
+        "image": "img/roosevelt.jpg"
     },
 ]
